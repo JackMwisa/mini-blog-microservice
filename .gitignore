@@ -1,0 +1,12 @@
+
+# .gitignore
+# Ignore node_modules directory
+# Dependencies
+node_modules/
+# Ignore logs
+logs/
+# Log files
+*.log
+#node_modules/
+# Ignore environment variables file
+.env
